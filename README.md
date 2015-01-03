@@ -59,11 +59,11 @@ Graph-API
 
 ### Practical examples
 
-1. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
+a. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
 
-2. Declaring Undirected graph:  DirectedGraph dg = new DirectedGraph();
+b. Declaring Undirected graph:  DirectedGraph dg = new DirectedGraph();
 
-3. Adding nodes to graph. (Doesn't really matter whether we take directed or Undirected Graph).
+c. Adding nodes to graph. (Doesn't really matter whether we take directed or Undirected Graph).
 ```
         UndirectedGraph ug = new UndirectedGraph();
         ug.add();
@@ -72,7 +72,7 @@ Graph-API
         ug.add();
         ...
 ```
-4. Adding edges to graph. In this example we will add an edge between nodes 1 and 3.
+d. Adding edges to graph. In this example we will add an edge between nodes 1 and 3.
 
 
 
