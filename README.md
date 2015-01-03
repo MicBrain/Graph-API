@@ -63,7 +63,7 @@ a. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
 
 b. Declaring Undirected graph:  DirectedGraph dg = new DirectedGraph();
 
-c. Adding nodes to graph. (Doesn't really matter whether we take directed or Undirected Graph).
+c. Adding vertices to graph. (Doesn't really matter whether we take directed or Undirected Graph).
 ```
         UndirectedGraph ug = new UndirectedGraph();
         ug.add();
@@ -72,7 +72,25 @@ c. Adding nodes to graph. (Doesn't really matter whether we take directed or Und
         ug.add();
         ...
 ```
-d. Adding edges to graph. In this example we will add an edge between nodes 1 and 3.
+d. Adding edges to graph. In this example we will add an edge between vertices 1 and 3.
+```
+        DirectedGraph dg = new DirectedGraph();
+        dg.add();
+        dg.add();
+        dg.add();
+        dg.add(1, 3);
+        ...
+```
+e. Removing a vertex from a graph. (Same works for DirectedGraphs too).
+```
+      UndirectedGraph ug = new UndirectedGraph();
+      ug.add();
+      ug.add();
+      ug.add();
+      ug.remove(1);
+      ug.remove(3);
+```
+f. 
 
 
 
