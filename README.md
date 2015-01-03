@@ -14,5 +14,10 @@ A standard API that provides methods for Graphs.
    5. outDegree(int v) - Returns the number of outgoing edges incident to V, or 0 if V is not one of my vertices.
    6. inDegree(int v) - Returns the number of incoming edges incident to V, or 0 if V is not one of my vertices.
    7. degree(int v) - Returns outDegree(V). This is simply a synonym, intended for use in undirected graphs.
+   8. contains(int u) - Returns true iff U is one of my vertices.
+   9. contains(int u, int v) - Returns true iff U and V are my vertices and I have an edge (U, V).
+   10. add() - Returns a new vertex and adds it to me with no incident edges. The vertex number is always the smallest integer
+               >= 1 that is not currently one of my vertex numbers. 
+   11. add(int u, int v) - Add an edge incident on U and V. If I am directed, the edge is directed (leaves U and enters V).                Assumes U and V are my vertices.  Has no effect if there is already an edge from U to V.  Returns U. 
    
    
