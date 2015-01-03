@@ -64,10 +64,6 @@ Graph-API
 3. Adding nodes to graph. (Doesn't really matter whether we take directed or Undirected Graph).
 ```
         UndirectedGraph ug = new UndirectedGraph();
-        ArrayList<Integer> test = new ArrayList<Integer>();
-        ug.sortlist(test);
-        assertEquals(0, test.size());
-        ArrayList<Integer> current = new ArrayList<Integer>();
         current.add(5);
         current.add(3);
         current.add(1);
