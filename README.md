@@ -7,7 +7,7 @@ Graph-API
 
 ### Documentation
 
-   GENERALLY USEFUL METHODS
+      GENERALLY USEFUL METHODS
    
    1. vertexSize() - Returns the number of vertices in me.
    2. maxVertex()  - Returns my maximum vertex number, or 0 if I am empty.
