@@ -22,6 +22,7 @@ A standard API that provides methods for Graphs.
    13. remove(int u, int v) - Remove edge (U, V) from me, if present.
    14. vertices() - Returns an Iteration over all vertices in numerical order.
    15. successor(int v, int k) - Return successor K of V, numbering from 0, or 0 if there is no such successor (or V is not                a vertex).
-   16. 
+   16. predecessor(int v, int k) - Return predecessor K of V, numbering from 0, or 0 if there is no such predecessor.                      Assumes V is one of my vertices.
+   17. 
    
    
