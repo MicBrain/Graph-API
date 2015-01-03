@@ -20,5 +20,8 @@ A standard API that provides methods for Graphs.
    11. add(int u, int v) - Add an edge incident on U and V. If I am directed, the edge is directed (leaves U and enters V).                Assumes U and V are my vertices.  Has no effect if there is already an edge from U to V.  Returns U.
    12. remove(int v) - Remove V, if present, and all adjacent edges.
    13. remove(int u, int v) - Remove edge (U, V) from me, if present.
+   14. vertices() - Returns an Iteration over all vertices in numerical order.
+   15. successor(int v, int k) - Return successor K of V, numbering from 0, or 0 if there is no such successor (or V is not                a vertex).
+   16. 
    
    
