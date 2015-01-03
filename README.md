@@ -58,3 +58,7 @@ Graph-API
    7. DepthFirstTraversal - Implements a depth-first traversal of a graph.  Generally, the client will extend this class,                         overriding the visit and postVisit methods, as desired (by default, they do nothing).
 
 ### Practical examples
+
+Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
+
+Declaring Undirected graph:  DirectedGraph dg = new DirectedGraph();
