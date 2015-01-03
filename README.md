@@ -90,7 +90,16 @@ e. Removing a vertex from a graph. (Same works for DirectedGraphs too).
       ug.remove(1);
       ug.remove(3);
 ```
-f. 
+f. Removing an edge from two vertices. In this example we will remove an edge from vertices 1 and 3.
+```
+        DirectedGraph dg = new DirectedGraph();
+        dg.add();
+        dg.add();
+        dg.add();
+        dg.add(1, 3);
+        dg.remove(1, 3);
+```
+g. 
 
 
 
