@@ -59,6 +59,5 @@ Graph-API
 
 ### Practical examples
 
-Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
-
-Declaring Undirected graph:  DirectedGraph dg = new DirectedGraph();
+1. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
+2. Declaring Undirected graph:  DirectedGraph dg = new DirectedGraph();
