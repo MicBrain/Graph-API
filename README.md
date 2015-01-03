@@ -64,17 +64,15 @@ Graph-API
 3. Adding nodes to graph. (Doesn't really matter whether we take directed or Undirected Graph).
 ```
         UndirectedGraph ug = new UndirectedGraph();
-        current.add(5);
-        current.add(3);
-        current.add(1);
-        current.add(5);
-        current.add(12);
-        current.add(0);
-        current.add(34);
-        current.add(9);
-        current.add(6);
+        ug.add();
+        ug.add();
+        ug.add();
+        ug.add();
+        ...
 ```
 4. 
+
+
 
 
 
