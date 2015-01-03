@@ -55,4 +55,4 @@ Graph-API
    6. BreadthFirstTraversal -  Implements a breadth-first traversal of a graph.  Generally, the client will extend this                           class, overriding the visit method as desired (by default, it does nothing).
    7. DepthFirstTraversal - Implements a depth-first traversal of a graph.  Generally, the client will extend this class,                         overriding the visit and postVisit methods, as desired (by default, they do nothing).
 
-   
+### Practical examples
