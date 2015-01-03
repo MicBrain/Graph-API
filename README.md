@@ -6,6 +6,8 @@ Graph-API
    "Graph-API" is a standard API that provides methods for Graphs.  This package represents a general unlabeled graph whose vertices are denoted by positive integers.  A graph may be directed or undirected.  For an undirected graph, outgoing and incoming edges are the same. Graphs may have self edges, but no multi-edges (edges with the same end points). Edges in a Graph are ordered by the sequence in which they were added.
 
 ### Documentation
+
+   GENERALLY USEFUL METHODS
    
    1. vertexSize() - Returns the number of vertices in me.
    2. maxVertex()  - Returns my maximum vertex number, or 0 if I am empty.
@@ -32,4 +34,9 @@ Graph-API
    23. checkMyVertex(int v) - Throw exception if V is not one of my vertices.
    24. edgeId(int u, int v) - Returns a unique positive identifier for the edge (U, V), if it is present, or 0 otherwise.                  The value of edgeId(v0, v1) does not change while the edge is present.  It is used in LabeledGraph to number                edges so that their labels are easy to retrieve and set. 
    
+   USEFUL CLASSES
+   
+   Directed Graph - Represents a general unlabeled directed graph whose vertices are denoted by positive integers. Graphs                       may have self edges.
+   UndirectedGraph - Represents an undirected graph.  Out edges and in edges are not distinguished.  Likewise for successors                     and predecessors.
+
    
