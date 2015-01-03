@@ -6,6 +6,7 @@ Graph-API
 1. Introduction
 2. Documentation
 3. Practical examples
+4. Like it / Hate it!
 4. References
 
 ### Introduction
