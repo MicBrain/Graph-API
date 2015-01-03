@@ -62,6 +62,7 @@ Graph-API
 1. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
 2. Declaring Undirected graph:  DirectedGraph dg = new DirectedGraph();
 3. Adding nodes to graph. (Doesn't really matter whether we take directed or Undirected Graph).
+```
         UndirectedGraph ug = new UndirectedGraph();
         ArrayList<Integer> test = new ArrayList<Integer>();
         ug.sortlist(test);
@@ -76,6 +77,8 @@ Graph-API
         current.add(34);
         current.add(9);
         current.add(6);
+```
+4. 
 
 
 
