@@ -26,5 +26,6 @@ A standard API that provides methods for Graphs.
    17. neighbor(int v, int k) - Return neighbor K of V, numbering from 0, or 0 if there is no such neighbor.  Assumes V is                 one of my vertices. This is a synonym for successor(v, k).
    18. successors(int v) - Returns an iteration over all successors of V in the order the edges to them were added.  Empty                 if V is not my vertex.
    19. predecessors(int v) - Returns an iteration over all predecessors of V in the order the edges to them were added.                    Empty if V is not my vertex.
+   20. neighbors(int v) - Returns successors(V).  This is a synonym typically used on undirected graphs.
    
    
