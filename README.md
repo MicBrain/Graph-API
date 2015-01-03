@@ -41,5 +41,6 @@ Graph-API
    1. Directed Graph - Represents a general unlabeled directed graph whose vertices are denoted by positive integers. Graphs                       may have self edges.
    2. UndirectedGraph - Represents an undirected graph.  Out edges and in edges are not distinguished.  Likewise for                              successors and predecessors.
    3. ShortestPaths - The shortest paths through an edge-weighted graph. By overrriding methods getWeight, setWeight,                             getPredecessor, and setPredecessor, the client can determine how to represent the weighting and the                         search results.  By overriding estimatedDistance, clients can search for paths to specific                                  destinations using A* search.
+   4. SimpleShortestPaths - A partial implementation of ShortestPaths that contains the weights of the vertices and the                           predecessor edges. The client needs to supply only the two-argument getWeight method.
 
    
