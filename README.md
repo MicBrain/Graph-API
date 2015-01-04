@@ -3,10 +3,13 @@ Graph-API
 
 ### Table of Content
 
+<img src="https://cloud.githubusercontent.com/assets/5885065/5607377/0e1e4132-940e-11e4-9b0c-bc27943b38c2.png"
+ alt="Graph-API Logo" title="Snowplow" align="right" />
+
+
 1. Introduction
 2. Documentation
-3. Practical examples with Methods       <div style="float: right"><img src="https://cloud.githubusercontent.com/assets/5885065/5607377/0e1e4132-940e-11e4-9b0c-bc27943b38c2.png"/>
-</div>
+3. Practical examples with Methods       
 4. Practical examples with Classes
 5. Like it / Hate it!
 6. Projects that used this API
