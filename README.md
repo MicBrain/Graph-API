@@ -252,7 +252,7 @@ For comments and suggestions please contact:
 
 ### References
 
-1. http://math.tut.fi/~ruohonen/GT_English.pdf
+1. "Graph Theory" by Keijo Ruohonen - http://math.tut.fi/~ruohonen/GT_English.pdf
 
 
 
