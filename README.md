@@ -99,7 +99,29 @@ f. Removing an edge from two vertices. In this example we will remove an edge fr
         dg.add(1, 3);
         dg.remove(1, 3);
 ```
-g. 
+g. A JUnit test samples that tests successors of the graph.
+```
+        @Test
+    public void dtestSuccessor() {
+        DirectedGraph ug = new DirectedGraph();
+        ug.add();
+        ug.add();
+        ug.add();
+        ug.add();
+        ug.add(1, 2);
+        ug.add(1, 3);
+        ug.add(1, 4);
+        ug.add(3, 4);
+        assertEquals(2, ug.successor(1, 0));
+        assertEquals(3, ug.successor(1, 1));
+        assertEquals(4, ug.successor(1, 2));
+        assertEquals(0, ug.successor(1, 3));
+        assertEquals(0, ug.successor(5, 0));
+        assertEquals(0, ug.successor(2, 0));
+        assertEquals(4, ug.successor(3, 0));
+        assertEquals(0, ug.successor(4, 0));
+    }
+```
 
 
 
