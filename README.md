@@ -135,7 +135,22 @@ h. An example for using vertices() method:
         }
         ...
 ```
-i. 
+i. A JUnit test sample for edgeSize()
+```
+    @Test
+    public void testDedgesize() {
+        DirectedGraph ug = new DirectedGraph();
+        ug.add();
+        ug.add();
+        ug.add();
+        ug.add();
+        ug.add(1, 3);
+        ug.add(3, 1);
+        ug.add(2, 3);
+        assertEquals(3, ug.edgeSize());
+    }
+```
+j.
 
 
 
