@@ -11,7 +11,7 @@ Graph-API
 6. Projects that used this API
 7. References
 
-https://cloud.githubusercontent.com/assets/5885065/5607343/4f91386a-940c-11e4-97ef-8cb4eccc37a0.png
+![alt tag](https://cloud.githubusercontent.com/assets/5885065/5607343/4f91386a-940c-11e4-97ef-8cb4eccc37a0.png)
 
 ### Introduction
       
