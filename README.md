@@ -5,7 +5,8 @@ Graph-API
 
 1. Introduction
 2. Documentation
-3. Practical examples with Methods       ![alt tag](https://cloud.githubusercontent.com/assets/5885065/5607343/4f91386a-940c-11e4-97ef-8cb4eccc37a0.png)
+3. Practical examples with Methods       <div style="float: right"><img src="https://cloud.githubusercontent.com/assets/5885065/5607343/4f91386a-940c-11e4-97ef-8cb4eccc37a0.png"/>
+</div>
 4. Practical examples with Classes
 5. Like it / Hate it!
 6. Projects that used this API
