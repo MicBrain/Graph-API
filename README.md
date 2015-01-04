@@ -258,6 +258,7 @@ For comments and suggestions please contact:
 4. Graphs and Graph Theory - http://www.ccs3.lanl.gov/mega-math/gloss/graph/gr.html
 5. "Introduction to Graph Theory and Applications" by Tero Harju - http://cs.bme.hu/fcs/graphtheory.pdf
 6. "Graph Theory and Applications" - http://www.hamilton.ie/ollie/Downloads/Graph.pdf
+7. "Basic Concepts in Graph Theory" - http://cseweb.ucsd.edu/~gill/BWLectSite/Resources/C2U4GT.pdf
 
 
 
