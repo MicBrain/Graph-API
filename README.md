@@ -252,6 +252,9 @@ c. A class that generates the algorithm of Shortest Path.
  
 ### Projects that used this API
 
+   Here is the list of some open-source projects that used this API:
+* "Topographic Maps" : https://github.com/MicBrain/Topographic-Maps
+
 ### References
 
 1. "Graph Theory" by Keijo Ruohonen - http://math.tut.fi/~ruohonen/GT_English.pdf
