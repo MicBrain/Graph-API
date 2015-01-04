@@ -221,6 +221,30 @@ b. A class that generates the idea of BFS:
         private ArrayList<Integer> postVisited;
     }
 ```
+c. A class that generates the algorithm of Shortest Path.
+```
+      public class TestShortestPath  extends SimpleShortestPaths {
+
+        public TestShortestPath(Graph G, int source, int dest) {
+            super(G, source, dest);
+            weightData = new HashMap<Integer, Integer>();
+        }
+
+        public void setWeight(int u, int v, int weight) {
+            int id = _G.edgeId(u, v);
+            weightData.put(id, weight);
+        }
+
+        @Override
+        public double getWeight(int u, int v) {
+            int id = _G.edgeId(u, v);
+            return weightData.get(id);
+        }
+
+
+        private HashMap<Integer, Integer> weightData;
+    }
+```
 
 
 
