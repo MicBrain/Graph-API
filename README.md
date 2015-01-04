@@ -1,10 +1,10 @@
 Graph-API
 =========
 
-### Table of Content
-
 <img src="https://cloud.githubusercontent.com/assets/5885065/5607407/cb6c9ff8-940f-11e4-969a-426a8767190a.png"
  alt="Graph-API Logo" title="Snowplow" align="right" />
+ 
+### Table of Content
 
 1. Introduction
 2. Documentation
