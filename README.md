@@ -1,7 +1,7 @@
 Graph-API
 =========
 
-<img src="https://cloud.githubusercontent.com/assets/5885065/5607407/cb6c9ff8-940f-11e4-969a-426a8767190a.png"
+<img src="https://cloud.githubusercontent.com/assets/5885065/5607377/0e1e4132-940e-11e4-9b0c-bc27943b38c2.png"
  alt="Graph-API Logo" title="Snowplow" align="right" />
  
 ### Table of Content
