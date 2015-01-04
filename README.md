@@ -101,7 +101,7 @@ f. Removing an edge from two vertices. In this example we will remove an edge fr
 ```
 g. A JUnit test samples that tests successors of the graph.
 ```
-        @Test
+    @Test
     public void dtestSuccessor() {
         DirectedGraph ug = new DirectedGraph();
         ug.add();
@@ -122,6 +122,20 @@ g. A JUnit test samples that tests successors of the graph.
         assertEquals(0, ug.successor(4, 0));
     }
 ```
+h. An example for using vertices() method:
+```
+        UndirectedGraph ug = new UndirectedGraph();
+        ug.add();
+        ug.add();
+        ug.add();
+        ug.add();
+        ArrayList<Integer> result = new ArrayList<Integer>();
+        for (int x : ug.vertices()) {
+            result.add(x);
+        }
+        ...
+```
+i. 
 
 
 
