@@ -250,7 +250,9 @@ c. A class that generates the algorithm of Shortest Path.
 For comments and suggestions please contact:
 * Rafayel Mkrtchyan: rafamian@berkeley.edu
 
+### References
 
+1. http://math.tut.fi/~ruohonen/GT_English.pdf
 
 
 
