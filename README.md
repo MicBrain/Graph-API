@@ -8,7 +8,8 @@ Graph-API
 3. Practical examples with Methods
 4. Practical examples with Classes
 5. Like it / Hate it!
-6. References
+6. Projects that used this API
+7. References
 
 ### Introduction
       
@@ -248,6 +249,8 @@ c. A class that generates the algorithm of Shortest Path.
 ### Like it / Hate it.
 
    This is free and unencumbered software released into the public domain. This API has been written by Rafayel Mkrtchyan at University of California, Berkeley in December, 2014. I would like to thank my professors Paul Hilfinger and Josh Hug, who teach "Data Structures" course at UC Berkeley, for providing fundamental assistance in completing this project. For additional comments and suggestions you can contact rafamian@berkeley.edu. I don't claim to be perfect so if you find a bug in this library, please send me an email preferably with a test that revealed that error so that I know what I need to fix.
+ 
+### Projects that used this API
 
 ### References
 
