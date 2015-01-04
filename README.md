@@ -245,7 +245,7 @@ c. A class that generates the algorithm of Shortest Path.
         private HashMap<Integer, Integer> weightData;
     }
 ```
-
+### Like it / Hate it.
 
 
 
