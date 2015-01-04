@@ -3,7 +3,7 @@ Graph-API
 
 ### Table of Content
 
-<img src="https://cloud.githubusercontent.com/assets/5885065/5607343/4f91386a-940c-11e4-97ef-8cb4eccc37a0.png"
+<img src="https://cloud.githubusercontent.com/assets/5885065/5607407/cb6c9ff8-940f-11e4-969a-426a8767190a.png"
  alt="Graph-API Logo" title="Snowplow" align="right" />
 
 
