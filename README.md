@@ -254,6 +254,7 @@ For comments and suggestions please contact:
 
 1. "Graph Theory" by Keijo Ruohonen - http://math.tut.fi/~ruohonen/GT_English.pdf
 2. MIT Lecture 6: Graph Theory and Coloring - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring/
+3. Graph Theory - An Introduction! - https://www.youtube.com/watch?v=HmQR8Xy9DeM
 
 
 
