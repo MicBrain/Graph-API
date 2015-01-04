@@ -21,7 +21,7 @@ Graph-API
    
    "Graph-API" is has very practical functionallity, it is very easy to use and in different applications. Examples of utilization of this library can be seen in Topographic-Maps program (https://github.com/MicBrain/Topographic-Maps). In this package we triend to combine all essential ideas of Graph Theory so all the users can easily implement their applications using this API. This software is under GNU GENERAL PUBLIC LICENSE. In order to use this package click on "Download ZIP" and unpack it.
 
-### Documentation
+### Full Documentation
 
       GENERALLY USEFUL METHODS AND CLASSES
 
