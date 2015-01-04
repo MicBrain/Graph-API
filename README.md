@@ -1,5 +1,3 @@
-Graph-API
-=========
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/5607584/d4611cd2-9415-11e4-9c0b-41ee513b15e8.png)
  
 ### Table of Content
@@ -13,8 +11,6 @@ Graph-API
 5. Like it / Hate it!
 6. Projects that used this API
 7. References
-
-
 
 ### Introduction
       
