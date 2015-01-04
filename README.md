@@ -5,9 +5,10 @@ Graph-API
 
 1. Introduction
 2. Documentation
-3. Practical examples
-4. Like it / Hate it!
-4. References
+3. Practical examples with Methods
+4. Practical examples with Classes
+5. Like it / Hate it!
+6. References
 
 ### Introduction
       
