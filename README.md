@@ -256,6 +256,7 @@ For comments and suggestions please contact:
 2. MIT Lecture 6: Graph Theory and Coloring - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring/
 3. Graph Theory - An Introduction! - https://www.youtube.com/watch?v=HmQR8Xy9DeM
 4. Graphs and Graph Theory - http://www.ccs3.lanl.gov/mega-math/gloss/graph/gr.html
+5. "Introduction to Graph Theory and Applications" by Tero Harju - http://cs.bme.hu/fcs/graphtheory.pdf
 
 
 
