@@ -247,7 +247,7 @@ c. A class that generates the algorithm of Shortest Path.
 ```
 ### Like it / Hate it.
 
-For comments and suggestions please contact:
+   This is free and unencumbered software released into the public domain. This API has been written by Rafayel Mkrtchyan at University of California, Berkeley in December, 2014. For comments and suggestions please contact:
 * Rafayel Mkrtchyan: rafamian@berkeley.edu
 
 ### References
