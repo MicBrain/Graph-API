@@ -58,7 +58,7 @@ Graph-API
    6. BreadthFirstTraversal -  Implements a breadth-first traversal of a graph.  Generally, the client will extend this                           class, overriding the visit method as desired (by default, it does nothing).
    7. DepthFirstTraversal - Implements a depth-first traversal of a graph.  Generally, the client will extend this class,                         overriding the visit and postVisit methods, as desired (by default, they do nothing).
 
-### Practical examples
+### Practical examples with Methods
 
 a. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
 
@@ -151,8 +151,76 @@ i. A JUnit test sample for edgeSize()
         assertEquals(3, ug.edgeSize());
     }
 ```
-j.
 
+### Practical examples with Classes
+
+a. A class that generates the idea of BFS:
+```
+      public class BFSTest extends BreadthFirstTraversal {
+
+        BFSTest(Graph G) {
+            super(G);
+            visitedData = new ArrayList<Integer>();
+            postVisitData = new ArrayList<Integer>();
+        }
+
+        @Override
+        protected boolean visit(int v) {
+            visitedData.add(v);
+            return true;
+        }
+
+        @Override
+        protected boolean postVisit(int v) {
+            postVisitData.add(v);
+            return true;
+        }
+
+        protected ArrayList<Integer> getvisitedData() {
+            return visitedData;
+        }
+
+        protected ArrayList<Integer> getpostVisitData() {
+            return postVisitData;
+        }
+
+        private ArrayList<Integer> visitedData;
+        private ArrayList<Integer> postVisitData;
+    }
+```
+b. A class that generates the idea of BFS:
+```
+      public class DFSTest extends DepthFirstTraversal {
+        DFSTest(Graph G) {
+            super(G);
+            visited = new ArrayList<Integer>();
+            postVisited = new ArrayList<Integer>();
+        }
+
+        @Override
+        protected boolean visit(int v) {
+            visited.add(v);
+            return true;
+        }
+
+        @Override
+        protected boolean postVisit(int v) {
+            postVisited.add(v);
+            return true;
+        }
+
+        protected ArrayList<Integer> getVisited() {
+            return visited;
+        }
+
+        protected ArrayList<Integer> getpostVisited() {
+            return postVisited;
+        }
+
+        private ArrayList<Integer> visited;
+        private ArrayList<Integer> postVisited;
+    }
+```
 
 
 
