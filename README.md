@@ -247,6 +247,8 @@ c. A class that generates the algorithm of Shortest Path.
 ```
 ### Like it / Hate it.
 
+For comments and suggestions please contact:
+* Rafayel Mkrtchyan: rafamian@berkeley.edu
 
 
 
