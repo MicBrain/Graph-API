@@ -285,6 +285,8 @@ c. A class that generates the algorithm of Shortest Path.
 [setup]: https://github.com/MicBrain
 [roadmap-image]: https://cloud.githubusercontent.com/assets/5885065/5610293/a2980d2e-9469-11e4-8ff5-9e9783c8c072.jpg
 [roadmap]: https://github.com/MicBrain 
+[contributing-image]: https://cloud.githubusercontent.com/assets/5885065/5610315/15eeb728-946a-11e4-9251-a24e5bb10682.jpg
+[contributing]: https://github.com/MicBrain 
 
 
 
