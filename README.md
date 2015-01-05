@@ -14,7 +14,7 @@
 
 ### Introduction
       
-   **"[Graph API] [website]"** is a standard Java library that provides various methods and classes that helps users to implement graphs. In this package we cover the basics of [Graph Theory] [website1] by providing useful helper functions and important algorithms. Keep reading this guide to learn more about the different operations that can be performed using the API. "Graph API" has a very practical functionallity and it is very easy to use it in different applications. In this library we triend to combine all essential ideas of Graph Theory so all the users can easily implement their applications using this API. 
+   **"[Graph API] [website]"** is a standard Java library that provides various methods and classes that helps users to implement graphs. In this package we cover the basics of [Graph Theory] [website1] by providing useful helper functions and important algorithms. Keep reading this guide to learn more about the different operations that can be performed using the API. "Graph API" has a very practical functionallity and it is very easy to use it in different applications. In this library we tried to combine all essential ideas of Graph Theory so all the users can easily implement their applications using this API. 
    
    This package represents a general unlabeled graph whose vertices are denoted by positive integers.  A graph may be directed or undirected.  For an undirected graph, outgoing and incoming edges are the same. Graphs may have self edges, but no multi-edges (edges with the same end points). Edges in a Graph are ordered by the sequence in which they were added.
    
