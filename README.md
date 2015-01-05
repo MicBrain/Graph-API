@@ -154,6 +154,28 @@ i. A JUnit test sample for edgeSize()
         assertEquals(3, ug.edgeSize());
     }
 ```
+j. A JUnit test that checks contains method:
+```
+    @Test
+    public void utest() {
+        UndirectedGraph ug = new UndirectedGraph();
+        ug.add();
+        ug.add();
+        ug.add(1, 2);
+        assertTrue(ug.contains(1, 2));
+        assertFalse(ug.contains(1, 3));
+        ug.add();
+        ug.add(1, 3);
+        assertTrue(ug.contains(1, 3));
+        assertFalse(ug.contains(2, 3));
+        ug.add();
+        ug.add(2, 3);
+        assertTrue(ug.contains(2, 3));
+        ug.add(3, 4);
+        assertTrue(ug.contains(3, 4));
+        assertTrue(ug.contains(3, 1));
+    }
+```
 
 ### Practical examples with Classes
 
