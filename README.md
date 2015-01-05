@@ -16,7 +16,12 @@
 6. Projects that used this API
 7. References
 
+
+What is Moloch?
+===============
+
 ### Introduction
+
       
    **"[Graph API] [website]"** is a standard Java library that provides various methods and classes that help users to implement graphs. In this package we cover the basics of [Graph Theory] [website1] by providing useful helper functions and important algorithms. Keep reading this guide to learn more about the different operations that can be performed using the API. "Graph API" has a very practical functionallity and it is very easy to use it in different applications. Clients can use the "Graph API" to program diverse tools with strong performance. In this library we tried to combine all essential ideas of Graph Theory so all the users can easily implement their applications using this API. 
    
