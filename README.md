@@ -23,13 +23,9 @@
 
 ### Full Documentation
 
-| First column | Second Column | Third column |
-----------------------------------------------
-| Rafa         | Mkrtchyan     | 20           |
-
 ##### METHODS
    
-   1. vertexSize() - Returns the number of vertices in me.
+   1. *vertexSize()* - Returns the number of vertices in me.
    2. maxVertex()  - Returns my maximum vertex number, or 0 if I am empty.
    3. edgeSize()   - Returns the number of edges in me.
    4. isDirected() - Returns true iff I am a directed graph.
