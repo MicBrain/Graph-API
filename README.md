@@ -279,5 +279,8 @@ c. A class that generates the algorithm of Shortest Path.
 [website1]: http://en.wikipedia.org/wiki/Graph_theory
 [website2]: http://mathworld.wolfram.com/UnlabeledGraph.html
 [web1]: https://github.com/MicBrain/Topographic-Maps
+[techdocs-image]: https://cloud.githubusercontent.com/assets/5885065/5610184/2ec4dad2-9467-11e4-85e9-e18245752fea.jpg
+[techdocs]: https://github.com/MicBrain/Topographic-Maps
+
 
 
