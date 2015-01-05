@@ -257,6 +257,10 @@ c. A class that generates the algorithm of Shortest Path.
    Here is the list of some open-source projects that used this API:
 * "Topographic Maps" : https://github.com/MicBrain/Topographic-Maps
 
+| **[Topographic Maps] [web1]**     | **[Setup Guide] [setup]**     | **[Roadmap] [roadmap]**           | **[Contributing] [contributing]**           |
+|-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
+| [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] |
+
 ### References
 
 1. "Graph Theory" by Keijo Ruohonen - http://math.tut.fi/~ruohonen/GT_English.pdf
@@ -274,5 +278,6 @@ c. A class that generates the algorithm of Shortest Path.
 [website]: https://github.com/MicBrain/Graph-API
 [website1]: http://en.wikipedia.org/wiki/Graph_theory
 [website2]: http://mathworld.wolfram.com/UnlabeledGraph.html
+[web1]: https://github.com/MicBrain/Topographic-Maps
 
 
