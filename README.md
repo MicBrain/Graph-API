@@ -1,17 +1,16 @@
-.. contents::
-    :local:
-    :depth: 2
-
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/5607654/4f45939a-9418-11e4-9004-1be0fbb6aa53.png)
     
 ### Table of Content
 <img src="https://cloud.githubusercontent.com/assets/5885065/5607397/476f3472-940f-11e4-9615-08cb044d8aef.png"
  alt="Graph-API Logo" title="Graph" align="right" />
 
-
-
-What is Moloch?
-===============
+1. Introduction
+2. Full Documentation
+3. Practical examples with Methods       
+4. Practical examples with Classes
+5. Like it / Hate it!
+6. Projects that used this API
+7. References
 
 ### Introduction
 
