@@ -257,7 +257,7 @@ c. A class that generates the algorithm of Shortest Path.
    Here is the list of some open-source projects that used this API:
 * "Topographic Maps" : https://github.com/MicBrain/Topographic-Maps
 
-| **[Topographic Maps] [web1]**     | **[Your Repo Can Be Here] [setup]**     | **[Your Repo Can Be Here] [roadmap]**           | **[Your Repo Can Be Here] [contributing]**           |
+| **[Topographic Maps] [web1]**     | **[Your Repo Here] [setup]**     | **[Your Repo Here] [roadmap]**           | **[Your Repo Here] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
 | [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] |
 
