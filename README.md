@@ -22,8 +22,6 @@
 
 ### Full Documentation
 
-      GENERALLY USEFUL METHODS AND CLASSES
-
 ##### METHODS
    
    1. vertexSize() - Returns the number of vertices in me.
