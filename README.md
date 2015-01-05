@@ -259,7 +259,7 @@ c. A class that generates the algorithm of Shortest Path.
 
 | **[Topographic Maps] [web1]**     | **[Your Repo Here] [setup]**     | **[Your Repo Here] [roadmap]**           | **[Your Repo Here] [contributing]**           | **[Your Repo Here] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|-------------------------------|
-| [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] | ![i5] [image-5]] [web5] |
+| [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] | ![i5] [mage-5]] [techdocs] |
 
 ### References
 
