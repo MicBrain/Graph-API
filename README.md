@@ -282,6 +282,7 @@ c. A class that generates the algorithm of Shortest Path.
 [techdocs-image]: https://cloud.githubusercontent.com/assets/5885065/5610184/2ec4dad2-9467-11e4-85e9-e18245752fea.jpg
 [techdocs]: https://github.com/MicBrain/Topographic-Maps
 [setup-image]: https://cloud.githubusercontent.com/assets/5885065/5610217/b7251298-9467-11e4-8d4a-802d681caba7.jpg
+[setup]: https://github.com/MicBrain
 
 
 
