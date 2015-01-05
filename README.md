@@ -250,7 +250,7 @@ c. A class that generates the algorithm of Shortest Path.
 ```
 ### Like it / Hate it.
 
-  This API has been written by Rafayel Mkrtchyan at University of California, Berkeley in December, 2014. I would like to thank my professors Paul Hilfinger and Josh Hug, who teach "Data Structures" course at UC Berkeley, for providing fundamental assistance in completing this project. For additional comments and suggestions you can contact rafamian@berkeley.edu. I don't claim to be perfect so if you find a bug in this library, please send me an email preferably with a test that revealed that error so that I know what I need to fix.
+  This API has been written by [Rafayel Mkrtchyan] [profile] at University of California, Berkeley in December, 2014. I would like to thank my professors Paul Hilfinger and Josh Hug, who teach "Data Structures" course at UC Berkeley, for providing fundamental assistance in completing this project. For additional comments and suggestions you can contact rafamian@berkeley.edu. I don't claim to be perfect so if you find a bug in this library, please send me an email preferably with a test that revealed that error so that I know what I need to fix.
  
 ### Projects that used this API
 
@@ -278,6 +278,7 @@ c. A class that generates the algorithm of Shortest Path.
 [website]: https://github.com/MicBrain/Graph-API
 [website1]: http://en.wikipedia.org/wiki/Graph_theory
 [website2]: http://mathworld.wolfram.com/UnlabeledGraph.html
+[profile]: www.linkedin.com/in/rafayelmkrtchyan
 [web1]: https://github.com/MicBrain/Topographic-Maps
 [techdocs-image]: https://cloud.githubusercontent.com/assets/5885065/5610184/2ec4dad2-9467-11e4-85e9-e18245752fea.jpg
 [techdocs]: https://github.com/MicBrain/Topographic-Maps
