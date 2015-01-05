@@ -23,6 +23,10 @@
 
 ### Full Documentation
 
+| First column | Second Column | Third column |
+----------------------------------------------
+| Rafa         | Mkrtchyan     | 20           |
+
 ##### METHODS
    
    1. vertexSize() - Returns the number of vertices in me.
