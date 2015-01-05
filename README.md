@@ -2,7 +2,7 @@
 
 ### Table of Content
 <img src="https://cloud.githubusercontent.com/assets/5885065/5607397/476f3472-940f-11e4-9615-08cb044d8aef.png"
- alt="Graph-API Logo" title="Snowplow" align="right" />
+ alt="Graph-API Logo" title="Graph" align="right" />
  
 1. Introduction
 2. Full Documentation
