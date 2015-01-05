@@ -41,14 +41,14 @@
    14. *vertices()* - Returns an Iteration over all vertices in numerical order.
    15. *successor(int v, int k)* - Return successor K of V, numbering from 0, or 0 if there is no such successor (or V is                   not a vertex).
    16. *predecessor(int v, int k)* - Return predecessor K of V, numbering from 0, or 0 if there is no such predecessor.                      Assumes V is one of my vertices.
-   17. neighbor(int v, int k) - Return neighbor K of V, numbering from 0, or 0 if there is no such neighbor.  Assumes V is                 one of my vertices. This is a synonym for successor(v, k).
-   18. successors(int v) - Returns an iteration over all successors of V in the order the edges to them were added.  Empty                 if V is not my vertex.
-   19. predecessors(int v) - Returns an iteration over all predecessors of V in the order the edges to them were added.                    Empty if V is not my vertex.
-   20. neighbors(int v) - Returns successors(V).  This is a synonym typically used on undirected graphs.
-   21. edges() - Returns an iteration over all edges in me.  Edges are returned as two-element arrays (u, v), which are                    directed if the graph is.  In fact, the same array is used for each, and modified by the next() method of the iteration.
-   22. mine(int v) - Return true iff V is one of my vertices.
-   23. checkMyVertex(int v) - Throw exception if V is not one of my vertices.
-   24. edgeId(int u, int v) - Returns a unique positive identifier for the edge (U, V), if it is present, or 0 otherwise.                  The value of edgeId(v0, v1) does not change while the edge is present.  It is used in LabeledGraph to number                edges so that their labels are easy to retrieve and set. 
+   17. *neighbor(int v, int k)* - Return neighbor K of V, numbering from 0, or 0 if there is no such neighbor.  Assumes V                    is one of my vertices. This is a synonym for successor(v, k).
+   18. *successors(int v)* - Returns an iteration over all successors of V in the order the edges to them were added.                        Empty if V is not my vertex.
+   19. *predecessors(int v)* - Returns an iteration over all predecessors of V in the order the edges to them were added.                    Empty if V is not my vertex.
+   20. *neighbors(int v)* - Returns successors(V).  This is a synonym typically used on undirected graphs.
+   21. *edges()* - Returns an iteration over all edges in me.  Edges are returned as two-element arrays (u, v), which are                    directed if the graph is.  In fact, the same array is used for each, and modified by the next() method of the iteration.
+   22. *mine(int v)* - Return true iff V is one of my vertices.
+   23. *checkMyVertex(int v)* - Throw exception if V is not one of my vertices.
+   24. *edgeId(int u, int v)* - Returns a unique positive identifier for the edge (U, V), if it is present, or 0 otherwise.                  The value of edgeId(v0, v1) does not change while the edge is present.  It is used in LabeledGraph to number                edges so that their labels are easy to retrieve and set. 
          
 ##### CLASSES
 
