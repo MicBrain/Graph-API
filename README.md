@@ -14,7 +14,7 @@
 
 ### Introduction
       
-   **"Graph-API"** is a standard API that provides methods for Graphs.  This package represents a general unlabeled graph whose vertices are denoted by positive integers.  A graph may be directed or undirected.  For an undirected graph, outgoing and incoming edges are the same. Graphs may have self edges, but no multi-edges (edges with the same end points). Edges in a Graph are ordered by the sequence in which they were added.
+   **"[Graph API] [website]"** is a standard API that provides methods for Graphs.  This package represents a general unlabeled graph whose vertices are denoted by positive integers.  A graph may be directed or undirected.  For an undirected graph, outgoing and incoming edges are the same. Graphs may have self edges, but no multi-edges (edges with the same end points). Edges in a Graph are ordered by the sequence in which they were added.
    
    "Graph-API" is has very practical functionallity, it is very easy to use and in different applications. Examples of utilization of this library can be seen in Topographic-Maps program (https://github.com/MicBrain/Topographic-Maps). In this package we triend to combine all essential ideas of Graph Theory so all the users can easily implement their applications using this API. This software is under GNU GENERAL PUBLIC LICENSE. In order to use this package click on "Download ZIP" and unpack it.
 
@@ -268,5 +268,8 @@ c. A class that generates the algorithm of Shortest Path.
 8. "Introduction to Graph Theory" - http://www.math.utah.edu/mathcircle/notes/MC_Graph_Theory.pdf
 9. "Data Structures Into Java" by Paul Hilfinger - http://inst.eecs.berkeley.edu/~cs61b/fa07/book2/data-structures.pdf
 10. "Lecture Notes on Expansion, Sparsest Cut, and Spectral Graph Theory" by Luca Trevisan - http://www.eecs.berkeley.edu/~luca/books/expanders.pdf
+
+
+[website]: https://github.com/MicBrain/Graph-API
 
 
