@@ -18,7 +18,7 @@
    
    This package represents a general [unlabeled graph] [website2] whose vertices are denoted by positive integers.  A graph may be directed or undirected.  For an undirected graph, outgoing and incoming edges are the same. Graphs may have self edges, but no multi-edges (edges with the same end points). Edges in a Graph are ordered by the sequence in which they were added. If you are not familiar with Graph Theory, we strongly recommend to run through an introductory tutorial before using this package. You can find detailed information about this in "Full Documentation" section. 
  
-   "Graph API" " is free and unencumbered software released into the public domain. This software is under GNU GENERAL PUBLIC LICENSE. *In order to use this package click on "Download ZIP" and unpack it.*
+   "Graph API" " is free and unencumbered software released into the public domain. This libary is under GNU GENERAL PUBLIC LICENSE. *In order to use this package click on "Download ZIP" and unpack it.*
 
 ### Full Documentation
 
