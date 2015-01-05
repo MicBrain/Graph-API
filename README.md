@@ -16,10 +16,10 @@
       
    **"[Graph API] [website]"** is a standard Java library that provides various methods and classes that help users to implement graphs. In this package we cover the basics of [Graph Theory] [website1] by providing useful helper functions and important algorithms. Keep reading this guide to learn more about the different operations that can be performed using the API. "Graph API" has a very practical functionallity and it is very easy to use it in different applications. Clients can use the "Graph API" to program diverse tools with strong performance. In this library we tried to combine all essential ideas of Graph Theory so all the users can easily implement their applications using this API. 
    
-   This package represents a general unlabeled graph whose vertices are denoted by positive integers.  A graph may be directed or undirected.  For an undirected graph, outgoing and incoming edges are the same. Graphs may have self edges, but no multi-edges (edges with the same end points). Edges in a Graph are ordered by the sequence in which they were added.
+   This package represents a general [unlabeled graph] [website2] whose vertices are denoted by positive integers.  A graph may be directed or undirected.  For an undirected graph, outgoing and incoming edges are the same. Graphs may have self edges, but no multi-edges (edges with the same end points). Edges in a Graph are ordered by the sequence in which they were added.
    
 
-This software is under GNU GENERAL PUBLIC LICENSE. In order to use this package click on "Download ZIP" and unpack it.
+This software is under GNU GENERAL PUBLIC LICENSE. *In order to use this package click on "Download ZIP" and unpack it.*
 
 ### Full Documentation
 
@@ -275,5 +275,6 @@ c. A class that generates the algorithm of Shortest Path.
 
 [website]: https://github.com/MicBrain/Graph-API
 [website1]: http://en.wikipedia.org/wiki/Graph_theory
+[website2]: http://mathworld.wolfram.com/UnlabeledGraph.html
 
 
