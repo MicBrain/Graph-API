@@ -63,6 +63,8 @@
    7. *DepthFirstTraversal* - Implements a depth-first traversal of a graph.  Generally, the client will extend this class,                         overriding the visit and postVisit methods, as desired (by default, they do nothing).
 
 ### Practical examples with Methods
+    
+    In order to use methods and classes from this package you need to import them in your files. 
 
 a. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
 
