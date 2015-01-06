@@ -22,7 +22,7 @@
 
 ### Full Documentation
 
-   We devided this section into two subparts. In the first part we provide all methods provided by this API. For more information you can look at Graph.java file.
+   We devided this section into two subparts. In the first part we provide all methods provided by this API. For more information you can look at Graph.java file. In the second part we described all classes provided by this package that help users to implement important algorithms related to Graph Theory, such as BFS, DFS and Shortest Path.
    
 ##### METHODS
    
