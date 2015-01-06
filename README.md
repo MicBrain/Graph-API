@@ -301,7 +301,7 @@ c. A class that generates the algorithm of Shortest Path.
 7. "Basic Concepts in Graph Theory" - http://cseweb.ucsd.edu/~gill/BWLectSite/Resources/C2U4GT.pdf
 8. "Introduction to Graph Theory" - http://www.math.utah.edu/mathcircle/notes/MC_Graph_Theory.pdf
 9. "Data Structures Into Java" by Paul Hilfinger - http://inst.eecs.berkeley.edu/~cs61b/fa07/book2/data-structures.pdf
-
+10. "Lecture Notes on Expansion, Sparsest Cut, and Spectral Graph Theory" by Luca Trevisan - http://www.eecs.berkeley.edu/~luca/books/expanders.pdf
 
 
 [website]: https://github.com/MicBrain/Graph-API
