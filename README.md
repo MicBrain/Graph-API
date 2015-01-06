@@ -22,7 +22,7 @@
 
 ### Full Documentation
 
-   We devided this section into two subparts. 
+   We devided this section into two subparts. In the first part we provide all methods provided by this API. 
    
 ##### METHODS
    
