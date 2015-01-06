@@ -22,7 +22,7 @@
 
 ### Full Documentation
 
-   We devided this section into two subparts. In the first part we provide all methods provided by this API. For more information you can look at Graph.java file. In the second part we described all classes provided by this package that help users to implement important algorithms related to Graph Theory, such as [BFS] [BFSwebsite], [DFS] [DFSwebsite] and Shortest Path.
+   We devided this section into two subparts. In the first part we provide all methods provided by this API. For more information you can look at Graph.java file. In the second part we described all classes provided by this package that help users to implement important algorithms related to Graph Theory, such as [BFS] [BFSwebsite], [DFS] [DFSwebsite] and [Shortest Path] [Pathwebsite].
    
 ##### METHODS
    
@@ -302,6 +302,7 @@ c. A class that generates the algorithm of Shortest Path.
 [website2]: http://mathworld.wolfram.com/UnlabeledGraph.html
 [BFSwebsite]: http://en.wikipedia.org/wiki/Breadth-first_search
 [DFSwebsite]: http://en.wikipedia.org/wiki/Depth-first_search
+[Pathwebsite]: http://en.wikipedia.org/wiki/A*_search_algorithm
 [profile]: http://linkedin.com/in/rafayelmkrtchyan
 [web1]: https://github.com/MicBrain/Topographic-Maps
 [techdocs-image]: https://cloud.githubusercontent.com/assets/5885065/5610184/2ec4dad2-9467-11e4-85e9-e18245752fea.jpg
