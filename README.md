@@ -68,6 +68,7 @@ In order to use methods and classes from this package you need to import them in
 ```
     import graph.LabeledGraph;
     import graph.DepthFirstTraversal;
+    import graph.DirectedGraph;
 ```
 
 a. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
