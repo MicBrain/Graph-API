@@ -67,8 +67,8 @@
 In order to use methods and classes from this package you need to import them in your files. If you assume that you put all the files of this package in a directory called "graph", here are some examples of importing classes from this library:
 ```
     import graph.LabeledGraph;
-    import graph.DepthFirstTraversal;
     import graph.DirectedGraph;
+    import graph.DepthFirstTraversal;
 ```
 
 a. Declaring Directed graph: UndirectedGraph ug = new UndirectedGraph();
