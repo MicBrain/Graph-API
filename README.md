@@ -303,7 +303,6 @@ c. A class that generates the algorithm of Shortest Path.
 9. "Data Structures Into Java" by Paul Hilfinger - http://inst.eecs.berkeley.edu/~cs61b/fa07/book2/data-structures.pdf
 10. "Lecture Notes on Expansion, Sparsest Cut, and Spectral Graph Theory" by Luca Trevisan - http://www.eecs.berkeley.edu/~luca/books/expanders.pdf
 
-
 [website]: https://github.com/MicBrain/Graph-API
 [website1]: http://en.wikipedia.org/wiki/Graph_theory
 [website2]: http://mathworld.wolfram.com/UnlabeledGraph.html
