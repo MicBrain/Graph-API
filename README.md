@@ -96,7 +96,7 @@ d. Adding edges to graph. In this example we will add an edge between vertices 1
 e. Removing a vertex from a graph. (Same works for DirectedGraphs too).
 ```
       UndirectedGraph ug = new UndirectedGraph();
-      ug.add();
+      ug.add(); 
       ug.add();
       ug.add();
       ug.remove(1);
