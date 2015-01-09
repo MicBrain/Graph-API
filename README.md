@@ -306,7 +306,7 @@ c. A class that generates the algorithm of Shortest Path.
 [website]: https://github.com/MicBrain/Graph-API
 [website1]: http://en.wikipedia.org/wiki/Graph_theory
 [website2]: http://mathworld.wolfram.com/UnlabeledGraph.html
-[BFSwebsite]: http://en.wikipedia.org/wiki/Breadth-first_search
+[BFSwebsite]: http://en.wikipedia.org/wiki/Breadth-first_search 
 [DFSwebsite]: http://en.wikipedia.org/wiki/Depth-first_search
 [Pathwebsite]: http://en.wikipedia.org/wiki/A*_search_algorithm
 [profile]: http://linkedin.com/in/rafayelmkrtchyan
