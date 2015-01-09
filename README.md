@@ -5,7 +5,7 @@
  alt="Graph-API Logo" title="Graph" align="right" />
 
 1. Introduction 
-2. Full Documentation
+2. Full Documentation 
 3. Practical examples with Methods       
 4. Practical examples with Classes
 5. Like it / Hate it!
