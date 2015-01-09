@@ -62,7 +62,7 @@
    6. *BreadthFirstTraversal* -  Implements a breadth-first traversal of a graph.  Generally, the client will extend this                           class, overriding the visit method as desired (by default, it does nothing).
    7. *DepthFirstTraversal* - Implements a depth-first traversal of a graph.  Generally, the client will extend this class,                         overriding the visit and postVisit methods, as desired (by default, they do nothing).
 
-### Practical examples with Methods
+### Practical examples with Methods 
     
 In order to use methods and classes from this package you need to import them in your files. If you assume that you put all the files of this package in a directory called "graph", here are some examples of importing classes from this library:
 ```
