@@ -52,7 +52,7 @@
    24. *edgeId(int u, int v)* - Returns a unique positive identifier for the edge (U, V), if it is present, or 0 otherwise.                  The value of edgeId(v0, v1) does not change while the edge is present.  It is used in LabeledGraph to number                edges so that their labels are easy to retrieve and set. 
          
 ##### CLASSES
-
+ 
    1. *DirectedGraph* - Represents a general unlabeled directed graph whose vertices are denoted by positive integers. Graphs                       may have self edges.
    2. *UndirectedGraph* - Represents an undirected graph.  Out edges and in edges are not distinguished.  Likewise for                              successors and predecessors.
    3. *ShortestPaths* - The shortest paths through an edge-weighted graph. By overrriding methods getWeight, setWeight,                             getPredecessor, and setPredecessor, the client can determine how to represent the weighting and the                         search results.  By overriding estimatedDistance, clients can search for paths to specific                                  destinations using A* search.
